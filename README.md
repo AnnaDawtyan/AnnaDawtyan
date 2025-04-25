@@ -1,3 +1,6 @@
+# 👋 About Me
+Hi, my name is **Anna**! I'm currently learning **Python** and **Machine Learning**, and I'm excited to grow as a developer.
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
