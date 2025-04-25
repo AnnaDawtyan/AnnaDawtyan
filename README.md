@@ -37,9 +37,7 @@
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaDavtyan&layout=compact&theme=dark)](https://github.com/AnnaDavtyan)
-
----
-[![Visit Count](https://visitcount.itsvg.in/api?id=AnnaDavtyan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaDavtyan&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AnnaDavtyan&theme=tokyonight)
+![GitHub Followers](https://img.shields.io/github/followers/AnnaDavtyan?style=for-the-badge&label=Followers&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/AnnaDavtyan?style=for-the-badge&label=Stars&logo=github)
